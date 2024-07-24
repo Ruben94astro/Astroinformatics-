@@ -1,4 +1,5 @@
 The first step to processing the TESS data is downloading the light curve through the mikulski archive, in general that page contain several bash to run it on linux 
 after that you can run that bash and download the fits files that you need the next step is dependind what you want to do with the date, if you want to to see that plots
-through TOP CAT or pyhton,if you want to open with python you can open and plotting with the correct library like numpy, matplotlib etc, after that you can find the outliners
-with an specific script code.
+through TOP CAT or pyhton,if you want to open with python you can open and plotting with the correct library like numpy, matplotlib etc, you may recall to order the columns and distinguish which
+column have information that you will need to process information for example flux, time, etc after that you can find the outliners eiith an specific script code in order to know what information
+you will not need.
